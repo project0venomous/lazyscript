@@ -10,15 +10,17 @@ it was a waste of bandwidth.
 current functions
 
                 Basics              Hacking tools             INSTALLERS  
+		
    +------------------------+------------------------+------------------------+ 
    |  1:.HOME               |  11. Wifi Hex Dump     |  21. Basic Install     |
    |  2. Update & Upgrade   |  x.                    |  x.                    |
    |  3. Terminal Browser   |  x. Crunch(EZ)         |  x.                    |
    |  4. Web Search         |  x. Maltego            |                        |
    |  5. Cherry Tree        |  x. Burp Suites        |                        |
-   |                        |  x. T Shark            |                        |
+   |                        |  x. T Shark            |                        |   
    |                        |  x. WP-Scanner         |                        |
    +------------------------+------------------------+------------------------+
+   
 
 #11 is actuall intresting. it is the only functional script that is worth a look.
 it streamlines using hcx to collect wifi hashes, converts to txt, and will
