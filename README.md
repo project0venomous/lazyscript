@@ -12,14 +12,23 @@ current functions
                 Basics              Hacking tools             INSTALLERS  
 		
    +------------------------+------------------------+------------------------+ 
+   
    |  1:.HOME               |  11. Wifi Hex Dump     |  21. Basic Install     |
+   
    |  2. Update & Upgrade   |  x.                    |  x.                    |
+   
    |  3. Terminal Browser   |  x. Crunch(EZ)         |  x.                    |
+   
    |  4. Web Search         |  x. Maltego            |                        |
+   
    |  5. Cherry Tree        |  x. Burp Suites        |                        |
-   |                        |  x. T Shark            |                        |   
+   
+   |                        |  x. T Shark            |                        |
+   
    |                        |  x. WP-Scanner         |                        |
+   
    +------------------------+------------------------+------------------------+
+   
    
 
 #11 is actuall intresting. it is the only functional script that is worth a look.
@@ -36,7 +45,9 @@ you need to do to install is
 	./install.sh
 
 then to run cd into the folder and
+
 	./venomous.sh 
+
 and i suggest running option 21 if you dont have parrot or kali installed.
 
 any other way and some of the functions will fail. I dont know why and i
